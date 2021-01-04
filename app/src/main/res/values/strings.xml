@@ -2,4 +2,8 @@
     <string name="app_name">NutritionApp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="name">name</string>
+    <string name="foto">foto</string>
 </resources>
